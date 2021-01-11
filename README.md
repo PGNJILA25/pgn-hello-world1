@@ -1,2 +1,3 @@
 # pgn-hello-world1
-This is my first github repo.
+This is a repo exercise.
+edit to README file
